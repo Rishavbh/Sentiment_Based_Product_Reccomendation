@@ -11,5 +11,5 @@ scikit-learn==0.24.1
 scipy==1.4.1
 urllib3==1.25.9
 Werkzeug==1.0.1
-pandas==1.2.3
+pandas
 pickle
